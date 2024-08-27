@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100080437087855",
+    "100094345072494",
     ""
   ],
   "whiteListMode": {
@@ -25,10 +25,10 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Mrkimsters (Symer Steve)",
+  "OWNER": "Bonbon (Austine Salvador)",
   "AGE": "15",
   "GENDER": "MALE",
-  "nickNameBot": "‧͙⁺˚*･༓☾ $ 𝙏𝘼𝙉𝙅𝙄𝙍𝙊_𝙆𝘼𝙈𝘼𝘿𝙊 ☽༓･*˚⁺‧͙",
+  "nickNameBot": "‧͙⁺˚*･༓☾ $ 𝙏𝘼𝙉𝙅𝙄𝙍𝙊_BAKI ☽༓･*˚⁺‧͙",
   "FACEBOOK": "https://www.facebook.com/SymerSteveBerondo",
   "prefix": "$",
   "database": {
@@ -41,7 +41,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "cliffbotbeluga@gmail.com",
+      "email": "austinesalvador99@gmail.com",
       "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
